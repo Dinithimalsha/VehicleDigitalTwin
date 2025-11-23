@@ -1,0 +1,26 @@
+# --- UNREAL ENGINE DEFAULTS (CRITICAL) ---
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vs/
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# --- PYTHON ---
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# --- NODE / WEB ---
+node_modules/
+dist/
+build/
+.DS_Store
+
+# --- IDEs ---
+.vscode/
+.idea/
